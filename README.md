@@ -1,5 +1,4 @@
 # Hoja-de-vida.
-Mi hoja de vida.
 # Juan David Sarmiento Díaz
 ![foto](https://github.com/JuanSarmiento04/Hoja-de-vida./blob/main/WIN_20230227_08_27_23_Pro.jpg)
 
