@@ -15,14 +15,14 @@ Mi hoja de vida.
 ## Estudios
 | colegio                | I.E.D Las Mercedes San Pablo   |
 |------------------------|------------------------------- |
-| diploma bachiller      |                                |
-| Certificado de estudio |                                |
+| diploma bachiller      | Certificado                    |
+| Certificado de estudio | Certificado                    |
 
 | Sena                   | Centro industrial y de aviación |
 |------------------------|---------------------------------|
-| tecnico en sistema     |                                 |
-| ingles basico nivel 1  |                                 |
-| ingles basico nivel 2  |                                 |
+| tecnico en sistema     | Certificado                     |
+| ingles basico nivel 1  | Certificado                     |
+| ingles basico nivel 2  | Certificado                     |
 
 ## Referencias personales 
 | Nombres y apellidos    | Yesica Maria Díaz Acosta       |
